@@ -1,3 +1,5 @@
+A template which provides a Typescript Next.js project with Tailwind CSS and linting using ESLint and Prettier enabled.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
